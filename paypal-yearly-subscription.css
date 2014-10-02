@@ -1,0 +1,19 @@
+.large-text{
+	width:99%;
+}
+.regular-text{
+	width:25em;
+}
+#wp_paypal_framework span.help {
+	display:inline-block;
+	background:url('help.png') no-repeat;
+	width:12px;
+	height:13px;
+	border:none;
+	text-indent:100%;
+	overflow:hidden;
+}
+#wp_paypal_framework span.help:hover {
+	background-position:0 -13px;
+	cursor:pointer;
+}
