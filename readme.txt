@@ -16,6 +16,8 @@ Subscriptions are always complicated. This plugin uses PayPal Express Checkout m
 
 All you have to do is insert the shortcodes in their rightful places, set up the paypal credentials in the setup page and you are ready to go.
 
+You can find more things here: http://attilaordog.wordpress.com/2014/09/30/paypal-yearly-subscription/
+
 == Installation ==
 
 
