@@ -3,7 +3,7 @@ Contributors: atillaordog
 Donate link: http://attilaordog.wordpress.com/contribution/
 Tags: paypal, subscription, yearly subscription, paypal yearly, annual, annual fee, annual subscription
 Requires at least: 3.3.1
-Tested up to: 4.0
+Tested up to: 4.2
 Stable Tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
